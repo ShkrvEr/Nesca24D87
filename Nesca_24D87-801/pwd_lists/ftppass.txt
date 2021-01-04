@@ -61,5 +61,5 @@ su
 ko2003wa
 MayGion
 maygion.com
-admin:9999
-PlcmSpIp:PlcmSpIp
+9999
+PlcmSpIp
